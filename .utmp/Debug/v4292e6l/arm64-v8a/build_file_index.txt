@@ -1,0 +1,2 @@
+C:\Users\jonah\Documents\Unity\GDD\314\VR\VR-XRI3-Template\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\jonah\Documents\Unity\GDD\314\VR\VR-XRI3-Template\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
